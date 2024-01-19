@@ -1,14 +1,14 @@
 [![MasterHead](https://res.cloudinary.com/devshukla/image/upload/v1677301498/gitBanner_gxomi1.gif)](https://deveshshukla.cf/)
 
 <h1 align="center">Hi 👋, I'm Devesh Shukla</h1>
-<h3 align="center">A passionate frontend/ App developer from India.</h3>
+<h3 align="center">A passionate full-stack web/ App developer from India.</h3>
 <img align="right" area-hidden="true" width="400" src="https://res.cloudinary.com/devshukla/image/upload/v1677301778/gitImage_supsrx.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshshukla&label=Profile%20views&color=0e75b6&style=flat" alt="deveshshukla" /> </p>
 
 - 🌱 I’m currently learning **FullStack Development**
 
-- 👨‍💻 All of my projects are available at [https://deveshshukla.cf/](https://deveshshukla.cf/)
+- 👨‍💻 All of my projects are available at (Portfolio Coming Soon)
 
 - 💬 Ask me about **Android, Html/CSS, More comming soon..😅**
 
