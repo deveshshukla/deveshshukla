@@ -2,7 +2,7 @@
 
 I'm Devesh Shukla, I'm a Frontend Developer, aspire to be Full-Stack Dev, and I'm seeking opportunity to enter the job market.
 
-[![Linkedin: AdrianoEscarabote](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoescarabote/)](https://www.linkedin.com/in/adrianoescarabote/)
+[![Linkedin: Devesh Shukla](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoescarabote/)](https://www.linkedin.com/in/devesh-kumar-shukla/)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveshshukla&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117%22%20alt=%22Caio%20Schwab%20github%20stats" /> 
