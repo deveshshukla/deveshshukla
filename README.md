@@ -23,8 +23,8 @@ Backend:
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java?style=flat-square&logo=coffeescript&label=Java&labelColor=brown&color=brown)
-![Spring](https://img.shields.io/badge/-Spring?style=flat-square&logo=spring&label=Spring&labelColor=black&color=black)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot?style=flat-square&logo=springboot&label=SpringBoot&labelColor=grey&color=grey)
+[comment]: <> (![Spring](https://img.shields.io/badge/-Spring?style=flat-square&logo=spring&label=Spring&labelColor=black&color=black))
+[comment]: <> (![SpringBoot](https://img.shields.io/badge/-SpringBoot?style=flat-square&logo=springboot&label=SpringBoot&labelColor=grey&color=grey))
 
 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
