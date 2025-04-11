@@ -11,7 +11,8 @@ I'm Devesh Shukla, a Frontend Developer, aspire to be Full-Stack Dev, and I'm se
 
 ## 🚀 Projects
 
-Working on project portfolio : Coming Soon
+All Project Repo: (https://github.com/deveshshukla/ProjectRepo)
+Frontend Mentor Projects: (https://github.com/deveshshukla/frontendmentor-challenges)
 
 ## ⚡ Technologies
 
