@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Devesh Shukla, a Frontend Developer, aspire to be Full-Stack Dev, and I'm seeking opportunity to enter the job market.
+I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experience, aspiring to grow into a Full-Stack Developer.
 
 [![Linkedin: Devesh Shukla](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoescarabote/)](https://www.linkedin.com/in/devesh-kumar-shukla/)
 
