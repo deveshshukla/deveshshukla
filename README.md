@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experience, aspiring to grow into a Full-Stack Developer.
-Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://deveshshuklaportfolio.netlify.app/)
+My Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://deveshshuklaportfolio.netlify.app/) <br>
 [![Linkedin: Devesh Shukla](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoescarabote/)](https://www.linkedin.com/in/devesh-kumar-shukla/)
 
 <div align="center">
