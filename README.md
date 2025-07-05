@@ -2,16 +2,78 @@
 
 I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experience, aspiring to grow into a Full-Stack Developer.<br>
 
-<div align="center">
-  My Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://deveshshuklaportfolio.netlify.app/)
-</div>
-<br><br>
+<table>
+  <tr>
+    <td><strong>My Portfolio:</strong></td>
+    <td>
+      <a href="https://deveshshuklaportfolio.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  Social Profile:
-[![Linkedin: Devesh Shukla](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoescarabote/)](https://www.linkedin.com/in/devesh-kumar-shukla/)
-</div>
-<br><br>
+<br>
+
+<strong>Social Profiles:</strong>
+<table>
+  <tr>
+    <td><strong>LinkedIn:</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/devesh-kumar-shukla/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<strong>Coding Profiles:</strong>
+<table>
+  <tr>
+    <td><strong>Leetcode:</strong></td>
+    <td>
+      <a href="https://leetcode.com/deveshshukla/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Portfolio" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Codeforces:</strong></td>
+    <td>
+      <a href="https://codeforces.com/profile/Dev.S07">
+        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>GfG:</strong></td>
+    <td>
+      <a href="https://www.geeksforgeeks.org/user/devshukla07/">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>FreeCodeCamp:</strong></td>
+    <td>
+      <a href="https://www.freecodecamp.org/DevShukla">
+        <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
+      </a>
+    </td>
+  </tr>
+<!--   <tr>
+    <td><strong>Codeforces:</strong></td>
+    <td>
+      <a href="">
+        <img src="" />
+      </a>
+    </td>
+  </tr> -->
+</table>
+
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveshshukla&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117%22%20alt=%22Caio%20Schwab%20github%20stats" /> 
@@ -23,7 +85,7 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
 All Project's Repo: (https://github.com/deveshshukla/ProjectRepo) <br>
 Frontend Mentor Projects: (https://github.com/deveshshukla/frontendmentor-challenges) <br>
 
-## ⚡ Technologies
+## ⚡ Technologies Which I know
 
 These are some of the technologies and tools that I work with:
 
