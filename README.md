@@ -6,7 +6,7 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
   <tr>
     <td><strong>My Portfolio:</strong></td>
     <td>
-      <a href="https://deveshshuklaportfolio.netlify.app/">
+      <a href="https://deveshshuklaportfolio.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" />
       </a>
     </td>
@@ -20,7 +20,7 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
   <tr>
     <td><strong>LinkedIn:</strong></td>
     <td>
-      <a href="https://www.linkedin.com/in/devesh-kumar-shukla/">
+      <a href="https://www.linkedin.com/in/devesh-kumar-shukla/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
       </a>
     </td>
@@ -34,7 +34,7 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
   <tr>
     <td><strong>Leetcode:</strong></td>
     <td>
-      <a href="https://leetcode.com/deveshshukla/">
+      <a href="https://leetcode.com/deveshshukla/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Portfolio" />
       </a>
     </td>
@@ -42,7 +42,7 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
   <tr>
     <td><strong>Codeforces:</strong></td>
     <td>
-      <a href="https://codeforces.com/profile/Dev.S07">
+      <a href="https://codeforces.com/profile/Dev.S07" target="_blank">
         <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
       </a>
     </td>
@@ -50,7 +50,7 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
   <tr>
     <td><strong>GfG:</strong></td>
     <td>
-      <a href="https://www.geeksforgeeks.org/user/devshukla07/">
+      <a href="https://www.geeksforgeeks.org/user/devshukla07/" target="_blank">
         <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" />
       </a>
     </td>
@@ -58,7 +58,7 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
   <tr>
     <td><strong>FreeCodeCamp:</strong></td>
     <td>
-      <a href="https://www.freecodecamp.org/DevShukla">
+      <a href="https://www.freecodecamp.org/DevShukla" target="_blank">
         <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
       </a>
     </td>
