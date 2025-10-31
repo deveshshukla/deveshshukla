@@ -13,10 +13,9 @@
 # 👨‍💻 About Me  
 
 - 🎓 Experience **Software Developer** passionate about bring change through Tech  
-- 💻 Currently building **a Startup**,  
-- 📚 Daily growth in **Full-Stack Dev, DSA & Aptitude**  
-- 🎥 Planning to start a **YouTube channel** to share what I learn  
-- 🎯 Goal: Crack **great placements** & explore study abroad opportunities  
+- 💻 Currently building **a Startup**.
+- 📚 Daily growth in **Full-Stack Dev, Generative AI, & DSA**  
+- 🎥 Planning to start a **YouTube channel** to share what I learn 
 
 ---
 
