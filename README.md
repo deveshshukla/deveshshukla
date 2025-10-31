@@ -1,6 +1,34 @@
-### Hi there 👋
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devesh+Shukla+👋;Full-Stack+Web+Developer+💻;DSA+Enthusiast+⚡;Aspiring+Software+Engineer+🚀;Open+Source+Contributor+🌍" alt="Typing SVG" />
+</p>
 
-I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experience, aspiring to grow into a Full-Stack Developer.<br>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Welcome Banner"/>
+</p>
+
+---
+
+# 👨‍💻 About Me  
+
+- 🎓 Experience **Software Developer** passionate about bring change through Tech  
+- 💻 Currently building **a Startup**,  
+- 📚 Daily growth in **Full-Stack Dev, DSA & Aptitude**  
+- 🎥 Planning to start a **YouTube channel** to share what I learn  
+- 🎯 Goal: Crack **great placements** & explore study abroad opportunities  
+
+---
+
+# 🛠️ Tech Arsenal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,next,nodejs,express,postman,graphql,deno,redux,redis,mongodb,postgresql,firebase,python,java,docker,git,github,vscode,androidstudio" />
+</p>
+
+---
+
+# 🤝 Connect with Me  
 
 <table>
   <tr>
@@ -11,12 +39,6 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
       </a>
     </td>
   </tr>
-</table>
-
-<br>
-
-<strong>Social Profiles:</strong>
-<table>
   <tr>
     <td><strong>LinkedIn:</strong></td>
     <td>
@@ -25,12 +47,6 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
       </a>
     </td>
   </tr>
-</table>
-
-<br>
-
-<strong>Coding Profiles:</strong>
-<table>
   <tr>
     <td><strong>Leetcode:</strong></td>
     <td>
@@ -63,67 +79,43 @@ I'm Devesh Shukla, a Frontend Developer with over 2 years of corporate experienc
       </a>
     </td>
   </tr>
-<!--   <tr>
-    <td><strong>Codeforces:</strong></td>
-    <td>
-      <a href="">
-        <img src="" />
-      </a>
-    </td>
-  </tr> -->
-</table>
+  </table>
 
-<br>
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveshshukla&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117%22%20alt=%22Caio%20Schwab%20github%20stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshshukla&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
-</div>
+# 🚀 Featured Projects  
 
-## 🚀 Projects
+🔹 **All Project's Repo** - (https://github.com/deveshshukla/ProjectRepo) <br>
+🔹 **Frontend Mentor Projects** - (https://github.com/deveshshukla/frontendmentor-challenges) <br> 
+🔹 More coming soon…  
 
-All Project's Repo: (https://github.com/deveshshukla/ProjectRepo) <br>
-Frontend Mentor Projects: (https://github.com/deveshshukla/frontendmentor-challenges) <br>
+---
 
-## ⚡ Technologies Which I know
+# 📊 GitHub Stats  
 
-These are some of the technologies and tools that I work with:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deveshshukla&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshshukla&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-Backend:
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java?style=flat-square&logo=coffeescript&label=Java&labelColor=brown&color=brown)
-<!--- ![Spring](https://img.shields.io/badge/-Spring?style=flat-square&logo=spring&label=Spring&labelColor=black&color=black)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot?style=flat-square&logo=springboot&label=SpringBoot&labelColor=grey&color=grey) --->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshshukla&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+---
 
-Database:
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL?style=flat-square&logo=postgresql&logoColor=white&label=PostgreSQL&labelColor=%23689dc8&color=%23689dc8)
+# 🏆 GitHub Achievements  
 
-Cloud:
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deveshshukla&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
-Tools:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+---
 
-IDEs:
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=flat-square&logo=android%20studio&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white)
-![Sublime](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deveshshukla&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</p>
+
+---
+
+✨ *“Code with purpose. Build with passion. Grow with consistency.”* ✨  
