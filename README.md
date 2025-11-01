@@ -1,3 +1,5 @@
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fdeveshshukla265ed.png?alt=media)
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devesh+Shukla+👋;Full-Stack+Web+Developer+💻;AI+and+DSA+Enthusiast+⚡;Aspiring+Software+Engineer+🚀;" alt="Typing SVG" />
