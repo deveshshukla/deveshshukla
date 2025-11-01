@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devesh+Shukla+👋;Full-Stack+Web+Developer+💻;DSA+Enthusiast+⚡;Aspiring+Software+Engineer+🚀;Open+Source+Contributor+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devesh+Shukla+👋;Full-Stack+Web+Developer+💻;AI+&+DSA+Enthusiast+⚡;Aspiring+Software+Engineer+🚀;" alt="Typing SVG" />
 </p>
 
 <!-- Banner -->
@@ -13,7 +13,7 @@
 # 👨‍💻 About Me  
 
 - 🎓 Experience **Software Developer** passionate about bring change through Tech  
-- 💻 Currently building **a Startup**.
+- 💻 Currently building a **Startup**.
 - 📚 Daily growth in **Full-Stack Dev, Generative AI, & DSA**  
 - 🎥 Planning to start a **YouTube channel** to share what I learn.
 
@@ -117,4 +117,4 @@
 
 ---
 
-✨ *“Code with purpose. Build with passion. Grow with consistency.”* ✨  
+✨ *“Develop with purpose. Execute with passion. Advance through consistency.”* ✨  
