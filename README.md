@@ -54,14 +54,14 @@
       </a>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><strong>Codeforces:</strong></td>
     <td>
       <a href="https://codeforces.com/profile/Dev.S07" target="_blank">
         <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
       </a>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td><strong>GfG:</strong></td>
     <td>
