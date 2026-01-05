@@ -15,7 +15,7 @@
 - 🎓 Experience **Software Developer** passionate about bring change through Tech.  
 - 💻 Currently building a **Startup**.
 - 📚 Daily growth in **Full-Stack Dev, Generative AI, & DSA**.  
-- 🎥 Planning to start a **YouTube channel** to share what I learn.
+- 🎥 Planning to start a **YouTube channel** to share tech realted learnings or update.
 
 ---
 
