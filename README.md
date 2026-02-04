@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+<!-- Animated Header --> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devesh+Shukla+👋;Full-Stack+Web+Developer+💻;AI+and+Web3+Enthusiast+⚡;" alt="Typing SVG" />
 </p>
